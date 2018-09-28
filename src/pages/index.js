@@ -3,6 +3,8 @@ import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
 
+import staticdata from '../../staticdata.json'
+
 const IndexPage = () => (
   <Layout>
     <div className="Hero">
@@ -13,6 +15,10 @@ const IndexPage = () => (
 
       </div>
     </div>
+
+    {staticdata.cells.map(cell => (
+      <div>{cell.title}</div>
+    ))}
   </Layout>
 )
 
