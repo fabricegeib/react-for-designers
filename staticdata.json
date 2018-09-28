@@ -7,6 +7,14 @@
         {
             "title": "Basic Styling",
             "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
+        },
+        {
+            "title": "Title 3",
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
+        },
+        {
+            "title": "Title 4",
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
         }
     ]
 }
