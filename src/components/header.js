@@ -3,18 +3,6 @@ import { Link } from 'gatsby'
 import './Header.css'
 // import logo from '../images/logo-designcode.svg'
 
-const Header = ({ siteTitle }) => (
-  <div className="Header">
-      <div className="HeaderGroup">
-        <Link to="/"><img src={require ('../images/logo-designcode.svg')} width="30" alt="logo" /></Link>
-        <Link to="/courses">Courses</Link>
-        <Link to="/downloads">Downloads</Link>
-        <Link to="/workshops">Workshops</Link>
-        <Link to="/buy"><button>Buy</button></Link>
-      </div>
-  </div>
-)
-
 class Header extends React.Component {
     render() {
     return (
