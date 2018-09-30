@@ -122,10 +122,10 @@ a {
   font-size: 60px;
   text-align: center;
   font-weight: 700;
-  background: linear-gradient(104deg, #050A27 0%, #4A548C);
-  background-clip: text;
+  /* background: linear-gradient(104deg, #050A27 0%, #4A548C);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-text-fill-color: transparent; */
 }
 
 .CardGroup {
