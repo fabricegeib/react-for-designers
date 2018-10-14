@@ -2,36 +2,54 @@
     "cells": [
         {
             "title": "Intro to React",
-            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react-small.png"
         },
         {
             "title": "Basic Styling",
-            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react-small.png"
         },
         {
             "title": "Title 3",
-            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react-small.png"
         },
         {
             "title": "Title 4",
-            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react-small.png"
         },
         {
             "title": "Title 5",
-            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react-small.png"
         },
         {
             "title": "Title 6",
-            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react-small.png"
         },
         {
             "title": "Title 7",
-            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react-small.png"
         }
         ,
         {
             "title": "Title 8",
-            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react-small.png"
+        },
+        {
+            "title": "Title 9",
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react-small.png"
+        }
+        ,
+        {
+            "title": "Title 10",
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react-small.png"
+        },
+        {
+            "title": "Title 11",
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react-small.png"
+        }
+        ,
+        {
+            "title": "Title 12",
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react-small.png"
         }
     ]
 }
