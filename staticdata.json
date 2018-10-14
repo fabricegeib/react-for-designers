@@ -15,6 +15,23 @@
         {
             "title": "Title 4",
             "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
+        },
+        {
+            "title": "Title 5",
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
+        },
+        {
+            "title": "Title 6",
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
+        },
+        {
+            "title": "Title 7",
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
+        }
+        ,
+        {
+            "title": "Title 8",
+            "image": "http://workshop.fabricegeib.com/_css/designcode/logo-react.png"
         }
     ]
 }
